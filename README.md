@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to App de inicio rapido React 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/maathe\_us1" target="_blank">
+  <a href="https://twitter.com/maathe_us1" target="_blank">
     <img alt="Twitter: maathe\_us1" src="https://img.shields.io/twitter/follow/maathe\_us1.svg?style=social" />
   </a>
 </p>
